@@ -1,4 +1,10 @@
 # odin-recipes
 My name is Rizki Pradana Sidiq.
-This is my project to learn all about Software Development through The Odin Project.
-I will demonstrate skill what I learn from this, I still don't know what project it is, but I will excited to doing it with The Odin Project
+Do you like unspicy food?
+Do you like tasty food?
+Do you like practice food to made in your own kitchen?
+You come to the Right Place
+
+In this website you will get many recipes that you can make it simply on your own kitchen!!
+
+Enjoyy!!!
