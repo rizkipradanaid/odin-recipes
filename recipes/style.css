@@ -1,0 +1,107 @@
+:root {
+    --color-bg: #F8E9D8;
+    --color-green: #3D7B4E;
+    --color-orange: #E86C2D;
+    --color-brown: #3B2B20;
+}
+
+body {
+    font-family: "Sergoe UI", Tahoma, sans-serif;
+    margin-top: 0;
+    background-color: var(--color-bg);
+    color: var(--color-brown);
+    line-height: 1.6;
+}
+
+header.hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 40px;
+    gap: 20px;
+    align-items: start;
+    margin: 0 auto;
+    max-width: 1000px;
+    
+    
+}
+.navbar {
+    margin-bottom: 20px;
+}
+
+.back-home {
+    text-decoration: none;
+    color: #2f6b3e;
+    font-weight: 500;
+    font-size: 16px;
+
+}
+
+.back-home:hover {
+    text-decoration: underline;
+    color: #1f4528;
+}
+
+.hero-text h1 {
+    font-size: 2.5rem;
+    color: var(--color-orange);
+    max-width: 600px;
+
+}
+
+.hero-text p {
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
+
+.hero-image img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 16px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+    justify-content: center;
+    
+}
+
+.credit {
+    color: gray;
+    text-align: left;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    
+    
+}
+.ingredients, .steps {
+    padding: 20px;
+    background-color: white;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3); 
+    
+    
+}
+
+.container h2{
+    color: var(--color-green);
+    margin-bottom: 15px;
+
+}
+
+ul,ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-left: 10px;
+}
+
+
+
